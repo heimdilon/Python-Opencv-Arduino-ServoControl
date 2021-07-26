@@ -19,6 +19,6 @@ With pyFirmata, opencv and cvzone
 #Other things  
 
 ->If you want to calulate different fingers distance you can change codefrom line 36  
-<img src="https://github.com/heimdilon/Python-Opencv-Arduino-ServoControl/blob/main/pics/4.png" width="500" height="100" />  
+<img src="https://github.com/heimdilon/Python-Opencv-Arduino-ServoControl/blob/main/pics/5.png" width="500" height="100" />  
 ->Here is hand landmarks  
 <img src="https://github.com/heimdilon/Python-Opencv-Arduino-ServoControl/blob/main/pics/hand_landmarks.png" width="600" height="400" />  
