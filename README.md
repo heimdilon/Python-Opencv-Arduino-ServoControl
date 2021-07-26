@@ -1,5 +1,8 @@
 # Python-Opencv-Arduino-ServoControl  
 With pyFirmata, opencv and cvzone  
+pip install pyFirmata  
+pip install cvzone  
+pip install opencv-python  
 
 <img src="https://github.com/heimdilon/Python-Opencv-Arduino-ServoControl/blob/main/pics/demo.gif" width="500" height="400" />  
 
