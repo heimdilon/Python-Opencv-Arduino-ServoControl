@@ -28,4 +28,4 @@ pip install opencv-python
 ->If you want to control arduino with HC-05 bluetooth. You need to change baudrate in arduino code uploaded. Change Firmata.begin(57600); to Firmata.begin(9600);  
 <img src="https://github.com/heimdilon/Python-Opencv-Arduino-ServoControl/blob/main/pics/6.png" width="500" height="400" />  
 ->Here is Bluetoot module connection  
-<img src="https://github.com/heimdilon/Python-Opencv-Arduino-ServoControl/blob/main/pics/7.png" width="500" height="400" />  
+<img src="https://github.com/heimdilon/Python-Opencv-Arduino-ServoControl/blob/main/pics/7.jpg" width="500" height="400" />  
