@@ -21,7 +21,7 @@ pip install opencv-python
 
 #Other things  
 
-->If you want to calulate different fingers distance you can change codefrom line 36  
+->If you want to calculate different finger distance. You need to change code from line 36  
 <img src="https://github.com/heimdilon/Python-Opencv-Arduino-ServoControl/blob/main/pics/5.png" width="1000" height="100" />  
 ->Here is hand landmarks  
 <img src="https://github.com/heimdilon/Python-Opencv-Arduino-ServoControl/blob/main/pics/hand_landmarks.png" width="600" height="400" />  
