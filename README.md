@@ -12,7 +12,7 @@ pip install opencv-python
 ->Open Tools/Manage Libraries  
 <img src="https://github.com/heimdilon/Python-Opencv-Arduino-ServoControl/blob/main/pics/1.png" width="500" height="400" />  
 ->Search firmata and install  
-<img src="https://github.com/heimdilon/Python-Opencv-Arduino-ServoControl/blob/main/pics/2.png" width="500" height="400" />  
+<img src="https://github.com/heimdilon/Python-Opencv-Arduino-ServoControl/blob/main/pics/2.png" width="700" height="400" />  
 ->Open File/Examples/Firmata/StandartFirmata  
 <img src="https://github.com/heimdilon/Python-Opencv-Arduino-ServoControl/blob/main/pics/3.png" width="500" height="400" />  
 ->Open Tools and choose your board and serial port  
